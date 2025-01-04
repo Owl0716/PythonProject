@@ -19,11 +19,6 @@ def display(a, b, canvas_plot):
     y = a_num*x + b_num
     ax.plot(x,y)
 
-    # Plot the function    ax.plot(x, y)
-    #     ax.set_title("Y = A * X + B")
-    #     ax.set_xlabel("X Axis")
-    #     ax.set_ylabel("Y Axis")
-    # Embed the plot on the canvas
     canvas_plot.draw()
     print(f"{a_num} {b_num}")
 
