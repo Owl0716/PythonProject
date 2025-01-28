@@ -1,4 +1,0 @@
-Hello;Bonjour
-How;Comment
-Why;Pourquoi
-Who;Key

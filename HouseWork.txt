@@ -1,0 +1,17 @@
+do the dishes;faire la vaisselle
+do the laundry;faire le linge
+to cook;faire la cuisine
+make your bed;faire son lit
+set the table;mettre la table
+wash the car;laver la voiture
+feed the animal;nourrir l'animal
+water the plants;arroser les plantes
+tidy up the room;ranger la chambre
+sweep;balayer
+iron the laundry;Repasser le linge
+vacuum;passer l'aspirateur
+walk the dog;promener le chien
+take out the trash;sortir la poubelle
+mow the lawn;tondre la pelouse
+do the shopping;faire les courses
+do homework;faire les devoirs

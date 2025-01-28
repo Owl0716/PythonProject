@@ -1,0 +1,21 @@
+clock;horloge
+markers;marqueurs
+door;porte
+window;fenetre
+pencil;crayon
+brush;brosse
+scissors;ciseaux
+book;livre
+notebook;cahier
+chair;chaise
+pen;stylo
+highlighter;surligneur
+desk;pupitre
+eraser;gomme
+pencil case;trousse
+table;tableau
+prof;teacher
+ruler;regle
+garbage can;poubelle
+caculator;calculatrice
+papers;papiers
